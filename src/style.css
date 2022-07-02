@@ -1,0 +1,56 @@
+body {
+  background: radial-gradient(
+    263px at 100.2% 3%,
+    rgb(12, 85, 141) 31.1%,
+    rgb(205, 181, 93) 36.4%,
+    rgb(244, 102, 90) 50.9%,
+    rgb(199, 206, 187) 60.7%,
+    rgb(249, 140, 69) 72.5%,
+    rgb(12, 73, 116) 72.6%
+  );
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 100%;
+  padding: 50px;
+  border-radius: 50px;
+}
+h2 {
+  text-align: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+  text-align: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h4 {
+  text-align: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.row {
+  text-align: center;
+  color: white;
+  margin: 0 auto;
+  max-width: 100%;
+  padding: 50px;
+  border-radius: 50px;
+}
+.mb-3 {
+  color: white;
+}
+.form-text {
+  color: white;
+}
+.search-button {
+}
+h4 {
+  text-align: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
